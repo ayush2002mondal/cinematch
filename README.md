@@ -1,6 +1,7 @@
 \# 🎬 CineMatch — Movie Recommendation System
 
-
+**Live demo:**[Click here
+](https://credit-risk-app-aqotsvu47t9e3224ndiuoc.streamlit.app/](https://ayush-cinematch.streamlit.app/))
 
 A content-based movie recommendation system that suggests similar films based on what you pick. Built with Python and deployed using Streamlit.
 
